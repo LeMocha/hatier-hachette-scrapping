@@ -1,0 +1,19 @@
+{
+  "name": "hatier-hachette-scrapping",
+  "version": "1.0.0",
+  "description": "Telecharger gratuitement les manuels numeriques grace a des techniques de scrapping",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LeMocha/hatier-hachette-scrapping"
+  },
+  "author": "LeMocha",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "puppeteer": "^10.4.0"
+  }
+}
